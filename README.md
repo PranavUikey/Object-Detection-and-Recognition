@@ -7,6 +7,6 @@ If you want audio as output follow these steps:
 
 
 
-Just overwrite the visualization_utils.py file in utils folder after removing the comments from line number 684 to 689.
+Just overwrite the visualization_utils.py file in utils folder after removing the comments from line number 684 to 689 of this code.
 And Paste the real time_video1.py in object detection folder.
 
